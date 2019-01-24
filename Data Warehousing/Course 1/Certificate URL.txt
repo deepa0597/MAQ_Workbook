@@ -1,0 +1,25 @@
+Certificate logo
+Database Management Essentials
+University of Colorado System
+Grade Achieved: 95.8%
+Instructions
+
+Enter the following in the Add certification section in LinkedIn:
+
+Certification name:
+Database Management Essentials
+
+Certification authority:
+Coursera
+
+License number:
+VHAGX9EKB82N
+
+Time period - From:
+January 2019
+
+Time period - To:
+(blank - toggle the checkbox for This certification does not expire)
+
+Certification URL:
+https://www.coursera.org/account/accomplishments/verify/VHAGX9EKB82N
