@@ -1,0 +1,12 @@
+Name:
+Relational Database Support for Data Warehouses
+Issuing Organization:
+Coursera
+Issue Date:
+April 2019
+Expiration Date:
+(blank - toggle the checkbox for This certification does not expire)
+Credential ID:
+TSXMBDP8TBTK
+Credential URL:
+https://www.coursera.org/account/accomplishments/verify/TSXMBDP8TBTK
