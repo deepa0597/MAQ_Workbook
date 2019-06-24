@@ -13,4 +13,4 @@ for i in num:
 final = set(sum)
 print(len(final))
 
-
+#No.s found in the range = 427
