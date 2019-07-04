@@ -21,3 +21,5 @@ for job in jobs:
     Time += job[0] * sumLength
 print(Time)
     
+    
+#Time = 69119377652
